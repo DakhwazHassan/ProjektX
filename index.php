@@ -5,7 +5,7 @@
 		<h1> Das ist der Titel</h1>
 		<meta charset="UTF-8">
 		<title></title>
-		<img src="https://cdn.shopify.com/s/files/1/0266/5817/7121/files/image2.jpg?v=1646720071" alt="Kuhle Ente">
+		<img src="https://hips.hearstapps.com/hmg-prod/images/wrinkle-the-duck-running-nyc-marathon-social-1636731968.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*" alt="Kuhle Ente">
 		<p> HAb es geschafft</p>
 	<head>
 	<body>
