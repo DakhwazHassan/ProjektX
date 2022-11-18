@@ -16,10 +16,8 @@
 		<article>
 	
 		
-<<<<<<< HEAD
 		<p> Ceaband, ist ein gangster</p>
 		<p> hab ich das jetzt geschafft </p>
-=======
->>>>>>> d584748d41caf511a699287e9483c4c8368a8f97
+
 	<body>
 <html>
