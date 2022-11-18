@@ -14,10 +14,7 @@
 			<a href="ssioder@mother.fucker">Email senden</a>
 		<img scr="https://upload.wikimedia.org/wikipedia/commons/8/8e/Deichbrand2018-SSIO-28.jpg" alt="SSio">
 		<article>
-			<h2>Google Chrome</h2>
-			<p>Lorem ipsum dolor sit amet. Et veritatis natus eos Quis doloremque aut minus accusamus ut modi autem nam laudantium voluptates.
-			 Sed facilis delectus est sint numquam et galisum eligendi ea quos inventore et quod blanditiis At autem error.</p>
-			</article>
+			
 		<ul class="list">
 	<li>Frühstück</li>
 	<li>Facebook checken</li>
