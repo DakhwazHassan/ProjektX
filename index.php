@@ -14,20 +14,7 @@
 			<a href="ssioder@mother.fucker">Email senden</a>
 		<img scr="https://upload.wikimedia.org/wikipedia/commons/8/8e/Deichbrand2018-SSIO-28.jpg" alt="SSio">
 		<article>
-			
-		<ul class="list">
-	<li>Frühstück</li>
-	<li>Facebook checken</li>
-	<li>Rasieren</li>
-	<li>Müll runterbringen</li>
-	<li>Mama anrufen</li>
-	<li>Twittern, dass ich Mama angerufen habe</li>
-	<li>über Kontostand wundern</li>
-	<li>Fernsehprogramm durchstöbern</li>
-	<li>einen sehr langen Aufgabentext ausdenken, um die Einzeiligkeit zu demonstrieren</li>
-	<li>Gute Nacht Geschichte anhören</li>
-	<li>Schäfchen zählen und zZz</li>
-</ul>
+	
 		
 <<<<<<< HEAD
 		<p> Ceaband, ist ein gangster</p>
