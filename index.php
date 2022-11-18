@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		#B0C4DE	
+		
 		<h1> Das ist der Titel</h1>
 		<meta charset="UTF-8">
 		<title></title>
@@ -10,7 +10,7 @@
 		<p> HAb es geschafft</p>
 	<head>
 	<body>
-		#B0C4DE	
+		
 		<h1> Das ist der Titel<h1>
 		<p>Hallo Welt leyla! </p>
 			<a href="ssioder@mother.fucker">Email senden</a>
