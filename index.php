@@ -18,6 +18,19 @@
 			<p>Lorem ipsum dolor sit amet. Et veritatis natus eos Quis doloremque aut minus accusamus ut modi autem nam laudantium voluptates.
 			 Sed facilis delectus est sint numquam et galisum eligendi ea quos inventore et quod blanditiis At autem error.</p>
 			</article>
+		<ul class="list">
+	<li>Frühstück</li>
+	<li>Facebook checken</li>
+	<li>Rasieren</li>
+	<li>Müll runterbringen</li>
+	<li>Mama anrufen</li>
+	<li>Twittern, dass ich Mama angerufen habe</li>
+	<li>über Kontostand wundern</li>
+	<li>Fernsehprogramm durchstöbern</li>
+	<li>einen sehr langen Aufgabentext ausdenken, um die Einzeiligkeit zu demonstrieren</li>
+	<li>Gute Nacht Geschichte anhören</li>
+	<li>Schäfchen zählen und zZz</li>
+</ul>
 		
 <<<<<<< HEAD
 		<p> Ceaband, ist ein gangster</p>
