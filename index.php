@@ -3,7 +3,7 @@
 <html>
 	<head>
 		
-		<h1> Kanax in Kitchen</h1>
+		<h1> Kanax in Kitchen 2</h1>
 		<meta charset="UTF-8">
 		<title></title>
 		<img src="https://hips.hearstapps.com/hmg-prod/images/wrinkle-the-duck-running-nyc-marathon-social-1636731968.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*" alt="Kuhle Ente">
